@@ -24,6 +24,4 @@ File or Folder | Purpose
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
 # btpcapabilitiesbooks
-#btpcapabilitiesbooks
-# btpcapabilitiesbooks
-#btpcapabilitiesbooks
+
